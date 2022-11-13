@@ -1,4 +1,54 @@
-/* Write Your CSS Below 
+/* Write Your CSS Below */
+body{
+background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+background-size:cover;
+}
+h1{
+    color: rgb(109, 0, 251);
+    align-items: center;
+    font-family: copperplate;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 4px 3px 6px yellow;
+    margin-left: 30%;
+    padding: 110px;
+    padding-block: 1%;
+    border-radius: 15px;
+    width: 600px;
+    background-image: linear-gradient(rgb(0, 201, 241), red);    
+}
+
+#row1{
+    margin-left: 30%;
+}
+#row1-section2{
+    border: 3px solid rgb(241, 117, 0);
+    height: 100px;
+    width: 600px;
+    text-align: justify;
+    background-color: rgb(116, 201, 241);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+#row2{
+    margin-top: 10px;
+    margin-left: 40%;
+}
+#row2-section2{
+    border: 3px solid green;
+    height: 100px;
+    width: 600px;
+    text-align: justify;
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/*
 Colors: 
 - rgb(243, 183, 106)
 - yellow
